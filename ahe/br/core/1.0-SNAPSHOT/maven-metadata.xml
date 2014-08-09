@@ -4,9 +4,10 @@
   <artifactId>core</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>1.0-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20140809.182837</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20140809182837</lastUpdated>
   </versioning>
 </metadata>
